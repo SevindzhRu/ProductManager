@@ -58,5 +58,5 @@ nuevoProducto.addProduct('iPhone', 'Nuevo iPhone 14', 1599, 'https://unsplash.co
 nuevoProducto.addProduct('AirPods', 'Audifonos inalambricos', 129, 'https://unsplash.com/es/fotos/IpIqJwxdiog', 'COD2', 29)
 
 console.log(nuevoProducto.getProducts())
-console.log(nuevoProducto.getProductById(1))
+console.log(nuevoProducto.getProductById(3))
 console.log(nuevoProducto.getProductById(4))
